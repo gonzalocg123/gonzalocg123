@@ -29,7 +29,7 @@
 
 ## 📫 Cómo contactarme
 - ✉️ Email: **chicagodinogonzalo@gmail.com**  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/)
 - 🌐 [Portfolio Web](#)
 
 ---
