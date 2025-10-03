@@ -33,7 +33,7 @@
 
 ## 🌟 Proyectos destacados  
 
-- 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)** – Mi página personal hecha con React y TypeScript. *(en construcción)*
+- 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)** – Mi página personal hecha con React, TypeScript, HTML y CSS. *(en construcción)*
 - 📂 **[CRUD en Java + MySQL](https://github.com/gonzalocg123/AgendaContactos)** – Aplicación básica de gestión de contactos.  
 
 ---
