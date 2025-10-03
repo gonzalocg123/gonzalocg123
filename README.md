@@ -33,7 +33,7 @@
 
 ## 🌟 Proyectos destacados  
 
-- 🖥️ **[Portfolio Web](#)** – Mi página personal hecha con HTML & CSS. *(en construcción)*
+- 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)** – Mi página personal hecha con React y TypeScript. *(en construcción)*
 - 📂 **[CRUD en Java + MySQL](https://github.com/gonzalocg123/AgendaContactos)** – Aplicación básica de gestión de contactos.  
 
 ---
@@ -41,7 +41,7 @@
 ## 📫 Cómo contactarme
 - ✉️ Email: **chicagodinogonzalo@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/)
-- 🌐 [Portfolio Web](#) *(en construcción)*
+- 🌐 [Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/) *(en construcción)*
 
 ---
 
