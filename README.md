@@ -23,8 +23,11 @@
 ---
 
 ## 📈 Mis estadísticas en GitHub
-![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalocg123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalocg123&layout=compact&theme=radical)
+
+![Mis Estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=gonzalocg123&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![Lenguajes Mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalocg123&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
