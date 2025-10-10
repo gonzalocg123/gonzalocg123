@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gonzalo bienvenido a mi GitHub
+# 👋 ¡Hola! Soy Gonzalo, bienvenido a mi GitHub
 
 🎓 Estudiante de 2º de FP Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 💻 Apasionado por la programación y en constante aprendizaje.  
@@ -12,11 +12,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 📚 Aprendiendo ahora
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -28,20 +29,28 @@
 
 ![Lenguajes Mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalocg123&layout=compact&theme=radical&cache_seconds=1800)
 
-
 ---
 
 ## 🌟 Proyectos destacados  
 
-- 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)** – Mi página personal hecha con React, TypeScript, HTML y CSS. *(en construcción)*
-- 📂 **[CRUD en Java + MySQL](https://github.com/gonzalocg123/AgendaContactos)** – Aplicación básica de gestión de contactos.  
+- 🧠 **[Task Manager - Full Stack App](https://taskmanager-frontend-azure.vercel.app)**  
+  Aplicación completa de gestión de tareas desarrollada con **React + Vite** en el frontend y **Spring Boot + MySQL** en el backend.  
+  - 💻 **Frontend:** [Repositorio](https://github.com/gonzalocg123/taskmanager-frontend)  
+  - ⚙️ **Backend:** [Repositorio](https://github.com/gonzalocg123/taskmanager-backend)  
+  - 🌐 **Demo:** [taskmanager-frontend-azure.vercel.app](https://taskmanager-frontend-azure.vercel.app)
+
+- 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)**  
+  Mi página personal hecha con **React**, **TypeScript**, **HTML** y **CSS**. *(en construcción)*  
+
+- 📂 **[Agenda de Contactos (Java + MySQL)](https://github.com/gonzalocg123/AgendaContactos)**  
+  Aplicación de escritorio básica para gestión de contactos, desarrollada en Java con conexión MySQL.
 
 ---
 
 ## 📫 Cómo contactarme
 - ✉️ Email: **chicagodinogonzalo@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/)
-- 🌐 [Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/) *(en construcción)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/)  
+- 🌐 [Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/) *(en construcción)*  
 
 ---
 
