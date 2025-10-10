@@ -35,7 +35,7 @@
 
 - 🧠 **[Task Manager - Full Stack App](https://taskmanager-frontend-zeta.vercel.app/)**  
   Aplicación completa de gestión de tareas desarrollada con **React + Vite** en el frontend y **Spring Boot + MySQL** en el backend.  
-  - 💻 **Frontend:** [Repositorio](https://github.com/gonzalocg123/taskmanager-frontend)  
+  - 💻 **Frontend:** [Repositorio](https://github.com/gonzalocg123/taskmanager_frontend)  
   - ⚙️ **Backend:** [Repositorio](https://github.com/gonzalocg123/taskmanager-backend)  
   - 🌐 **Demo:** [taskmanager-frontend-azure.vercel.app](https://taskmanager-frontend-zeta.vercel.app/)
 
