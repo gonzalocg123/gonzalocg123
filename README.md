@@ -23,6 +23,7 @@ Mi objetivo: crecer como desarrollador **full-stack** y aportar valor en proyect
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Technologies-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
