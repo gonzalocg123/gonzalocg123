@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Gonzalo, bienvenido a mi GitHub
 
-🎓 Estudiante de 2º de FP Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-💻 Apasionado por la programación y en constante aprendizaje.  
-🚀 Mi objetivo: crecer como desarrollador **full-stack** y aportar valor en proyectos reales.  
+Estudiante de 2º de FP Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Apasionado por la programación y en constante aprendizaje.  
+Mi objetivo: crecer como desarrollador **full-stack** y aportar valor en proyectos reales.  
 
 ---
 
