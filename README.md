@@ -47,14 +47,8 @@ Mi objetivo: crecer como desarrollador **full-stack** y aportar valor en proyect
 
 ## Proyectos destacados  
 
-- 🧠 **[Task Manager - Full Stack App](https://taskmanager-frontend-zeta.vercel.app/)**  
-  Aplicación completa de gestión de tareas desarrollada con **React + Vite** en el frontend y **Spring Boot + MySQL** en el backend.  
-  - 💻 **Frontend:** [Repositorio](https://github.com/gonzalocg123/taskmanager_frontend)  
-  - ⚙️ **Backend:** [Repositorio](https://github.com/gonzalocg123/taskmanager-backend)  
-  - 🌐 **Demo:** [taskmanager-frontend-azure.vercel.app](https://taskmanager-frontend-zeta.vercel.app/)
-
 - 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)**  
-  Mi página personal hecha con **React**, **TypeScript**, **HTML** y **CSS**. *(en construcción)*  
+  Mi página personal hecha con **React**, **TypeScript**, **HTML** y **CSS**. 
 
 - 📂 **[Agenda de Contactos (Java + MySQL)](https://github.com/gonzalocg123/AgendaContactos)**  
   Aplicación de escritorio básica para gestión de contactos, desarrollada en Java con conexión MySQL.
