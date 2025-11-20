@@ -47,11 +47,20 @@ Mi objetivo: crecer como desarrollador **full-stack** y aportar valor en proyect
 
 ## Proyectos destacados  
 
-- 🖥️ **[Portfolio Web](https://gonzalocg123.github.io/mi-portfolio/)**  
-  Mi página personal hecha con **React**, **TypeScript**, **HTML** y **CSS**. 
 
 - 📂 **[Agenda de Contactos (Java + MySQL)](https://github.com/gonzalocg123/AgendaContactos)**  
   Aplicación de escritorio básica para gestión de contactos, desarrollada en Java con conexión MySQL.
+  
+- 📂 **[Aplicación Android – Tema 1 PMDM)](https://github.com/gonzalocg123/pmdm-t1-miapp-android)**  
+  Kotlin · Android Studio · ViewBinding · SharedPreferences
+  Aplicación desarrollada para PMDM con múltiples acciones: Guardado de número con SharedPreferences, llamadas con permisos dinámicos, intents explícitos e implícitos, crear alarmas, abrir correo y enlaces web
+
+- 📂 **[excel2database – Importador Excel ↔ MySQL)](https://github.com/gonzalocg123/excel2database)**  
+  Java 21 · Maven · Apache POI · MySQL · Docker
+  Herramienta que importa datos desde Excel hacia MySQL y exporta la base de datos a un nuevo Excel.
+  
+- 📂 **[Generador de Personas (Java + Maven)](https://github.com/gonzalocg123/GeneradorPersonas)**  
+  Generador de perfiles completos aleatorios cargando datos desde archivos de texto. Permite generar nombres, apellidos, teléfono (+34), género y email formateado.
 
 ---
 
