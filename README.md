@@ -34,15 +34,6 @@ Mi objetivo: crecer como desarrollador **full-stack** y aportar valor en proyect
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-
----
-
-## Mis estadísticas en GitHub
-
-![Mis Estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=gonzalocg123&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Lenguajes Mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalocg123&layout=compact&theme=radical&cache_seconds=1800)
-
 ---
 
 ## Proyectos destacados  
