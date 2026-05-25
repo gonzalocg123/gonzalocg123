@@ -1,17 +1,19 @@
 # 👋 ¡Hola! Soy Gonzalo
 
-Estudiante de 2º de FP Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-Desarrollador en formación con enfoque **Full-Stack**  
-Actualmente realizando prácticas en empresa trabajando con tecnologías modernas  
+### Full Stack Developer (Junior) | Angular · NestJS · Spring Boot · Docker
+
+Desarrollador Full Stack enfocado en la creación de aplicaciones web modernas, escalables y orientadas a la experiencia de usuario.
+
+Actualmente trabajando con **Angular y NestJS en entorno profesional**, desarrollando APIs REST, interfaces responsivas y arquitecturas modulares.
 
 ---
 
 ## Sobre mí
 
-Me apasiona la programación y el desarrollo de aplicaciones reales.  
-Estoy enfocado en convertirme en desarrollador **full-stack**, combinando backend robusto con frontend moderno.
+Me especializo en el desarrollo de aplicaciones web full stack con tecnologías modernas como **Angular, NestJS y Spring Boot**, aplicando buenas prácticas de desarrollo, arquitectura limpia y separación de responsabilidades.
 
-Actualmente estoy trabajando con **NestJS y Angular** en entorno profesional, mejorando mis habilidades en arquitectura, APIs y desarrollo escalable.
+Actualmente estoy realizando prácticas en empresa, participando en el desarrollo de aplicaciones reales con enfoque en **APIs REST, autenticación, bases de datos y Docker**.
+
 
 ---
 
@@ -45,12 +47,12 @@ Actualmente estoy trabajando con **NestJS y Angular** en entorno profesional, me
 
 ---
 
-## Actualmente aprendiendo
+## Enfoque actual
 
-- Arquitectura backend con **NestJS (JWT, Auth, APIs REST)**
-- Desarrollo frontend con **Angular**
-- Buenas prácticas: **Clean Code, modularidad y escalabilidad**
-- Integración backend + frontend
+- Desarrollo backend con **NestJS (JWT, Auth, APIs REST)**
+- Arquitectura frontend con **Angular**
+- Integración full stack (frontend + backend)
+- Buenas prácticas: Clean Code, modularidad, escalabilidad
 
 ---
 
@@ -70,11 +72,16 @@ Generador de datos aleatorios estructurados (nombres, emails, teléfonos, etc.).
 
 ---
 
-## 📈 Objetivo profesional
+## Objetivo profesional
 
-🎯 Conseguir mi primera oportunidad como desarrollador **full-stack**  
-💡 Seguir creciendo en backend con **NestJS / Java** y frontend con **Angular / React**  
-🏗️ Participar en proyectos reales que aporten valor  
+Busco mi primera oportunidad como **Full Stack Developer Junior**, participando en proyectos reales donde pueda aportar valor y seguir creciendo en entornos profesionales.
+
+Intereses principales:
+- Arquitecturas backend escalables  
+- Desarrollo frontend moderno  
+- APIs REST y microservicios  
+- DevOps básico con Docker  
+
 
 ---
 
