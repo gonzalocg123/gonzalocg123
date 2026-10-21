@@ -89,7 +89,7 @@ Intereses principales:
 
 - ✉️ Email: **chicagodinogonzalo@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/  
-- 🌐 Portfolio: gonzalocg123.github.io/portfolio/ *(en construcción)*  
+- 🌐 Portfolio:  https://gonzalocg123.github.io/portfolio/ *(en construcción)*  
 
 ---
 
